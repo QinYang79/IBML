@@ -9,10 +9,22 @@ Multimodal learning aims to integrate diverse data sources to capture more compr
 ## 📕 Data
 
 ### Audio-Vision Recognition
-Coming soon ...
+- CREMAD and AVE:
+
+See data_process.zip
+
+Read or run `bash run.sh`
+
+- avsbench and VGGSound50
+
+See [here](https://huggingface.co/Yangsss/IBML/).
 
 ### Image-Text Classification
-Coming soon ...
+- food101 and MVSA
+
+See data_process.zip
+
+Read or run `bash run.sh`
 
 ### 2D-3D Classification
 - 3D MNIST
