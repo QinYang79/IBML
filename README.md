@@ -74,5 +74,11 @@ Modify the appropriate configuration, then run:
 ## Reference 🤗
 If this paper is helpful for your research, please cite:
 ```bibtex
-Coming soon ...
+@article{qin2026deep,
+  title={Deep Information-Balanced Multimodal Learning},
+  author={Qin, Yang and Feng, Yanglin and Sun, Yuan and Peng, Dezhong and Peng, Xi and Hu, Peng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
 ```
