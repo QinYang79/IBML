@@ -17,7 +17,7 @@ Read or run `bash run.sh`
 
 - avsbench and VGGSound50
 
-See [here](https://huggingface.co/Yangsss/IBML/).
+See [here](https://modelscope.cn/datasets/yangsss/IBML_data).
 
 ### Image-Text Classification
 - food101 and MVSA
