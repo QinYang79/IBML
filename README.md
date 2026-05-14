@@ -17,8 +17,10 @@ Read or run `bash run.sh`
 
 - avsbench and VGGSound50
 
+See [here](https://modelscope.cn/datasets/yangsss/IBML_data).
+
 ```
-IBML_data ([here](https://modelscope.cn/datasets/yangsss/IBML_data))
+IBML_data
 │
 ├── avsbench
 │     └── avsbench.tar.gz
@@ -28,6 +30,7 @@ IBML_data ([here](https://modelscope.cn/datasets/yangsss/IBML_data))
       ├── audios.tar.gz
       ├── train.txt
       └── test.txt
+```
 
 ### Image-Text Classification
 - food101 and MVSA
